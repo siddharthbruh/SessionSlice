@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Focus",
+    "icon": "\ud83d\udd25",
+    "color": "#7B67EE",
+    "hours": 0,
+    "minutes": 25
+  },
+  {
+    "name": "Break",
+    "icon": "\u2615",
+    "color": "#4CAF50",
+    "hours": 0,
+    "minutes": 10
+  },
+  {
+    "name": "session 1",
+    "icon": "\ud83d\udca1",
+    "color": "#ff4242",
+    "hours": 3,
+    "minutes": 10
+  },
+  {
+    "name": "wa",
+    "icon": "\ud83d\udca1",
+    "color": "#7B67EE",
+    "hours": 0,
+    "minutes": 25
+  },
+  {
+    "name": "easfas",
+    "icon": "\ud83d\udca1",
+    "color": "#f49c4d",
+    "hours": 0,
+    "minutes": 25
+  }
+]
