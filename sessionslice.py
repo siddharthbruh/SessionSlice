@@ -263,7 +263,7 @@ class SessionSliceApp(tk.Tk):
         self.title(APP_TITLE)
         self.geometry("1150x700")
         self.protocol("WM_DELETE_WINDOW", self.on_closing)
-        self.iconbitmap(r"D:\python project\project1\b69a199f-569b-4ceb-ba0e-3e8a194a8f64.ico")
+        self.iconbitmap(r"D:\python project\project1\icon.ico")
         self.data = SessionSliceData()
         self.theme_manager = theme_manager
         global COLORS
@@ -1836,4 +1836,5 @@ if __name__ == "__main__":
         print(f"❌ Error starting application: {e}")
         import traceback
         traceback.print_exc()
+
         input("Press Enter to exit...")
