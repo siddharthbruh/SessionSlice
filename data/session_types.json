@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Focus",
+    "icon": "\ud83d\udd25",
+    "color": "#2563eb",
+    "hours": 0,
+    "minutes": 25
+  },
+  {
+    "name": "Break",
+    "icon": "\u2615",
+    "color": "#10b981",
+    "hours": 0,
+    "minutes": 5
+  }
+]

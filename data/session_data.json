@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2025-07-30",
+    "start_time": "22:12",
+    "end_time": "22:12",
+    "duration": 0.0,
+    "type": "Focus",
+    "task": "Math Homework",
+    "completed": false
+  },
+  {
+    "date": "2025-07-31",
+    "start_time": "17:31",
+    "end_time": "17:31",
+    "duration": 0.0,
+    "type": "Focus",
+    "task": "Math Homework",
+    "completed": false
+  },
+  {
+    "date": "2025-07-31",
+    "start_time": "17:36",
+    "end_time": "17:36",
+    "duration": 0.2,
+    "type": "Focus",
+    "task": "Math Homework",
+    "completed": false
+  },
+  {
+    "date": "2025-07-31",
+    "start_time": "17:38",
+    "end_time": "17:38",
+    "duration": 0.1,
+    "type": "Focus",
+    "task": "Math Homework",
+    "completed": false
+  },
+  {
+    "date": "2025-08-03",
+    "start_time": "15:21",
+    "end_time": "15:21",
+    "duration": 0.0,
+    "type": "Focus",
+    "task": "Math Homework",
+    "completed": false
+  }
+]
