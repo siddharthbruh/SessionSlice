@@ -1,0 +1,22 @@
+[
+  {
+    "task": "Math Homework",
+    "daily_goal": 60,
+    "weekly_goal": 300
+  },
+  {
+    "task": "Reading",
+    "daily_goal": 30,
+    "weekly_goal": 150
+  },
+  {
+    "task": "Coding",
+    "daily_goal": 90,
+    "weekly_goal": 450
+  },
+  {
+    "task": "Exercise",
+    "daily_goal": 45,
+    "weekly_goal": 225
+  }
+]

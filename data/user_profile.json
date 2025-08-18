@@ -1,0 +1,21 @@
+{
+  "username": "Productivity Hero",
+  "level": 3,
+  "xp": 290,
+  "total_xp": 290,
+  "badges_earned": [
+    "\ud83e\udd47 First Timer",
+    "\ud83d\udd25 Streak Starter"
+  ],
+  "achievements_unlocked": [
+    "first_session",
+    "streak_starter"
+  ],
+  "join_date": "2025-08-16",
+  "stats": {
+    "total_sessions": 11,
+    "total_minutes": 3.8000000000000007,
+    "longest_streak": 4,
+    "perfect_sessions": 6
+  }
+}
